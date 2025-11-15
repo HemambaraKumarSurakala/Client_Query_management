@@ -1,0 +1,9 @@
+query_id,client_email,client_mobile,query_heading,query_description,status,date_raised,date_closed
+1,OG@email.com,89436298232162,"Phone Not working","Keypad backlight not lighting",Closed,"2025-11-13 22:32:11","2025-11-13 22:35:38"
+2,OG@email.com,855125,"Phone Not working","Phone speaker problem and torchlight not working
+",Closed,"2025-11-14 12:18:45","2025-11-14 12:31:23"
+3,GO.hemail.com,55468797,"Bike Lamp broken","Bike lamp was replaced recently with bosh but they were burnt with in 1 trip need a replacement and its under warranty ",Open,"2025-11-14 13:38:15",NULL
+4,carzi.mails.com,865647,"Car engine parts","Piston rings  worn out, Engine oil, Brake shoes, Boar head cleaning ",Open,"2025-11-14 14:08:16",NULL
+5,Ramraj@textiles.com,564742116,"Machine spare parts","Nuts, Bots, Grease, needle change",Open,"2025-11-14 15:43:14",NULL
+6,Ramraj@textiles.com,564742116,"Machine spare parts","Nuts, Bots, Grease, needle change",Open,"2025-11-14 15:44:18",NULL
+7,Ramraj@textiles.com,564742116,"Mobile phone spare parts","Mic, Camera, Li Battery, Touch screen, AMOLED  display",Open,"2025-11-14 15:51:32",NULL
