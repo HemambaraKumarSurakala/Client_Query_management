@@ -43,7 +43,7 @@ st.title(" Client Query Management System")
 if "page" not in st.session_state:
     st.session_state.page = "login"
 
-# Signup Part
+# Signup Part 2
 if st.session_state.page == "signup":
     st.subheader(" Signup Form")
 
@@ -127,7 +127,7 @@ elif st.session_state.page == "client":
     st.button("Logout", on_click=lambda: st.session_state.update(page="login"))
 
 # Support Part
-elif st.session_state.page == "support":
+elif st.session_state.page == "Support":
     st.subheader(f"Welcome, {st.session_state.username} (Support Team)")
 
     st.write("View and manage all client queries:")
